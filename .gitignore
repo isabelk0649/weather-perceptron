@@ -1,1 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
 
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Data
+# Un-comment if you don't want to commit the CSV
+# data/weather_2025.csv
+
+# System files
+.DS_Store
