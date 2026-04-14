@@ -21,9 +21,14 @@ The goal of this project is to classify weather instances as "Rain" or "No Rain.
 ```bash
 git clone [https://github.com/your-username/weather-perceptron.git](https://github.com/your-username/weather-perceptron.git)
 cd weather-perceptron
+```
 
 ### 2. Install Dependencies
+```
 pip install -r requirements.txt
+```
 
 ### 3. Run the script
+```
 python src/perceptron_model.py
+```
