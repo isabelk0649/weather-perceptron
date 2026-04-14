@@ -19,7 +19,7 @@ The goal of this project is to classify weather instances as "Rain" or "No Rain.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/isabelk0649/weather-perceptron.git](https://github.com/isabelk0649/weather-perceptron.git)
+git clone https://github.com/isabelk0649/weather-perceptron.git
 cd weather-perceptron
 ```
 
